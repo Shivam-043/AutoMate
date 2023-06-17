@@ -55,9 +55,6 @@ class _HomePageState extends State<HomePage> {
     Strip(width: 20, height: 70),
     Strip(width: 20, height: 20),
     Strip(width: 20, height: 50),
-    Strip(width: 20, height: 100),
-    Strip(width: 20, height: 70),
-    Strip(width: 20, height: 20),
     // Add more strips with different dimensions
   ];
   double scroller =0.0;
